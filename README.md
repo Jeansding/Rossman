@@ -56,23 +56,15 @@
     ```
     - ```python ross_main.py```
 
-## Result
+Result
 
-与 [Cheng Guo's Entity-Embedding模型](https://github.com/entron/entity-embedding-rossmann/tree/kaggle)对比（10模型融合）
+与 Cheng Guo's Entity-Embedding模型对比（10模型融合）
 
-| Model| Parameters    |  Private Score  | Public Score|
-| --------| -----|---- |----|
-| EE-Residual                  |  443     |   0.10292    |0.09106 |
-| Cheng Guo's Entity-Embedding | 690      |   0.10583    |0.09563 |
+Model	Parameters	Private Score	Public Score
+EE-Residual	443	0.10292	0.09106
+Cheng Guo's Entity-Embedding	690	0.10583	0.09563
+提交的结果 Submission
 
- ---
- 
- 提交的结果
- ![Submission](./imgs/submission.png)
-
-
-Store174 预测结果
- ![预测结果](./imgs/store174.png)
- 
+Store174 预测结果 预测结果
  
 
