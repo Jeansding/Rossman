@@ -56,15 +56,4 @@
     ```
     - ```python ross_main.py```
 
-Result
-
-与 Cheng Guo's Entity-Embedding模型对比（10模型融合）
-
-Model	Parameters	Private Score	Public Score
-EE-Residual	443	0.10292	0.09106
-Cheng Guo's Entity-Embedding	690	0.10583	0.09563
-提交的结果 Submission
-
-Store174 预测结果 预测结果
- 
 
